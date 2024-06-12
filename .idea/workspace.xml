@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cb50077-2cc5-4cb7-a12e-fca6fac5dcf6" name="Changes" comment="Update JUnit version">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Tienda.java" afterDir="false" />
+    <list default="true" id="2cb50077-2cc5-4cb7-a12e-fca6fac5dcf6" name="Changes" comment="Create Tienda class">
       <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TiendaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,40 +24,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "guillermoroman"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;guillermoroman&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/guillermoroman/endes_dist_parte1_examen_v2.git",
-    "accountId": "73d65e98-0356-40a2-9d30-4a2e3ac18dcf"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/guillermoroman/endes_dist_parte1_examen_v2.git&quot;,
+    &quot;accountId&quot;: &quot;73d65e98-0356-40a2-9d30-4a2e3ac18dcf&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hmhaoMW5szuTkJc3XWw0e99lzA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.TiendaTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.TiendaTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/guillermoroman/tunivers_repos/tests/endes_junit_descuento_mayores&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TiendaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="endes_junit_descuento_mayores" />
@@ -96,7 +102,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715779501591</updated>
-      <workItem from="1715779502893" duration="1819000" />
+      <workItem from="1715779502893" duration="2699000" />
+      <workItem from="1718205227449" duration="18000" />
+      <workItem from="1718205247691" duration="17000" />
+      <workItem from="1718205275761" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="Update JUnit version">
       <option name="closed" value="true" />
@@ -106,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715779673801</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create Tienda class">
+      <option name="closed" value="true" />
+      <created>1715782810001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715782810001</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update JUnit version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update JUnit version" />
+    <MESSAGE value="Create Tienda class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Tienda class" />
   </component>
 </project>
